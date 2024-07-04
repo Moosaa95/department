@@ -2,6 +2,29 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+# Project Name
+
+## Description
+
+This project is designed to showcase a dashboard with a searchable table of products fetched from an API. It includes functionalities like pagination, search filtering, and dynamic rendering of product details.
+
+## Prerequisites
+
+Make sure you have the following installed:
+
+- [Node.js](https://nodejs.org/) (version X.X.X or higher)
+- [Yarn](https://classic.yarnpkg.com/) (recommended) or [npm](https://www.npmjs.com/)
+
+## Installation
+
+Clone the repository and install dependencies.
+
+```bash
+git clone https://github.com/Moosaa95/department
+cd department
+
+npm install
+
 ## Available Scripts
 
 In the project directory, you can run:
@@ -44,3 +67,4 @@ You don’t have to ever use `eject`. The curated feature set is suitable for sm
 You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
 To learn React, check out the [React documentation](https://reactjs.org/).
+```
